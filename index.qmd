@@ -1,10 +1,10 @@
 ---
-title: "MUSA 5080 Portfolio"
+title: "CPLN 5920 Portfolio"
 ---
 
 # Welcome to My Portfolio
 
-This portfolio documents my learning journey in Public Policy Analytics (MUSA 5080).
+This portfolio documents my learning journey in Public Policy Analytics (CPLN 5920).
 
 ## About This Course
 Advanced spatial analysis and data science for urban planning and public policy.
@@ -15,8 +15,12 @@ Advanced spatial analysis and data science for urban planning and public policy.
 - **Final Project:** Capstone modeling challenge
 
 ## About Me
-[Students will customize this section]
+[Hello! I'm a planning analyst with two years of federal contracting experience supporting the U.S. Department of Transportation’s (USDOT) Intelligent Transportation Systems (ITS) Joint Program Office. My background is in civil engineering, specifically construction project management, transportation systems, and sustainability. 
+
+**Skills:** GIS, basic R, quantitative and data analysis, policy research, stakeholder engagement, technical writing. 
+
+**Outside of Work**: Alongside my academic work, I am a part of the Operations team for the annual Wharton–Weitzman Future of Cities Conference. I also bring experience running private tutoring and event planning businesses, 10 years of program and people management non-profit experience, and supporting charitable initiatives serving foster care youth in Washington DC area.]
 
 ## Contact
-- Email: [your.email@upenn.edu]
-- GitHub: [@your-username]
+- Email: [jayebae@upenn.edu]
+- GitHub: [@truejadamercy]
