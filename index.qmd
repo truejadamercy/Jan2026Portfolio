@@ -19,7 +19,9 @@ Advanced spatial analysis and data science for urban planning and public policy.
 
 **Skills:** GIS, basic R, quantitative and data analysis, policy research, stakeholder engagement, technical writing. 
 
-**Outside of Work**: Alongside my academic work, I am a part of the Operations team for the annual Wharton–Weitzman Future of Cities Conference. I also bring experience running private tutoring and event planning businesses, 10 years of program and people management non-profit experience, and supporting charitable initiatives serving foster care youth in Washington DC area.]
+**Outside of Work**: Alongside my academic work, I am a part of the Operations team for the annual Wharton–Weitzman Future of Cities Conference. I also bring experience running private tutoring and event planning businesses, 10 years of program and people management non-profit experience, and supporting charitable initiatives serving foster care youth in Washington DC area.
+
+I am taking this course to learn more quantitative ways to analyze public policy.]
 
 ## Contact
 - Email: [jayebae@upenn.edu]
