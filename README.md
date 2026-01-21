@@ -1,4 +1,4 @@
-# Portfolio Setup Instructions - Edited by JM 
+# jm's PPA Portfolio
 
 Welcome to CPLN5920 This guide helped me set up my personal portfolio repository for the semester.
 
