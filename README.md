@@ -1,12 +1,12 @@
-# Portfolio Setup Instructions
+# Portfolio Setup Instructions - Edited by JM 
 
-Welcome to CPLN5920/MUSA5080! This guide will help you set up your personal portfolio repository for the semester.
+Welcome to CPLN5920 This guide helped me set up my personal portfolio repository for the semester.
 
 ## What You're Building
 
-- Your own portfolio repository on GitHub
-- A live website showcasing your work
-- A place to document your learning journey  
+- My own portfolio repository on GitHub
+- A live website showcasing my work
+- A place to document my learning journey  
 
 ## Example:
 
